@@ -1,6 +1,6 @@
 # **GROUP MEMBERS AND THEIR ROLES.**
 <br>
-#  <b>OCHEMBA OBIANUJU ONYINYECHI-BHU/22/04/05/0058.</b>
+# OCHEMBA OBIANUJU ONYINYECHI-BHU/22/04/05/0058.
 <br>
 - Worked on the Controller aspect of the project for both the item and vehicle. The controller handles the the request and response from the client. Annotations like @GETMAPPING AND @POSTMAPPING. Using the @GETMAPPING to get vehicle by ID, and POSTMAPPING to create item and vehicle.
 <br>
