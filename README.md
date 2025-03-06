@@ -1,6 +1,6 @@
 # **GROUP MEMBERS AND THEIR ROLES.**
 <br>
-1. <i>OCHEMBA OBIANUJU ONYINYECHi-BHU/22/04/05/0058.</i>
+1. <b>OCHEMBA OBIANUJU ONYINYECHi-BHU/22/04/05/0058.</b>
 <br>
 - Worked on the Controller aspect of the project. The controller handles the the request and response from the client. Annotations like @GETMAPPING AND @POSTMAPPING.
 <br>
