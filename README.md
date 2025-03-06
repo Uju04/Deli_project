@@ -6,7 +6,6 @@
 <br>
 - I also used an app called 'postman' which is an API testing and development tool, allowing me to send HTTP request to API and inspect the responses, thus helping connect the backend to the frontend. If postman sends requests successfully to the backend API and receive the expected responses then the backend works well and indicates that any API problem may be from the frontend.
 <br>
-
 2. <b>Praise Ikenna Onyeaghala- BHU/22/04/05/0092.<b/>
 <br>
 Worked on the Service layer of the project for both Item and Vehicle. The service layer handles the business logic and interactions with the database. Implemented key methods such as creating, retrieving, updating, and deleting items and vehicles.
