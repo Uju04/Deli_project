@@ -13,3 +13,4 @@ Worked on the Service layer of the project for both Item and Vehicle. The servic
 	•	Used Spring annotations like @Service to define service components and integrated them with repositories for database operations.
 	•	Ensured smooth backend functionality by handling requests efficiently and improving exception handling to prevent system failures.
 	•	Used Postman, an API testing and development tool, to send HTTP requests to the backend and inspect responses. This helped validate API functionality and ensure proper backend-to-frontend communication. If Postman successfully sent requests and received expected responses, it indicated that any API issues were likely on the frontend side.
+# h
