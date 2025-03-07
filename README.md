@@ -16,4 +16,14 @@ Worked on the Service layer of the project for both Item and Vehicle. The servic
 <br>
 	•	Used Postman, an API testing and development tool, to send HTTP requests to the backend and inspect responses. This helped validate API functionality and ensure proper backend-to-frontend communication. If Postman successfully sent requests and received expected responses, it indicated that any API issues were likely on the frontend side.
 <br>
-
+3. GHATA GIDEON GHATA - BHU/22/04/05/0064.
+<br> 
+Worked on the frontend development of the project, crafting the HTML templates, designedv the user interface.
+<br>
+* Designed and structured the HTML templates for the project, ensuring a clean and well-organized layout. Used semantic HTML to improve accessibility and SEO.
+<br>
+* Used CSS to enhance the visual appeal of the project, maintaining a professional and user-freindly design.
+<br>
+* Ensured simple navigation, added interactive elements, and ensured users could easily find what they needed on the platform.
+<br>
+* Employed responsive design principles to ensure compatability across various devices and screen sizes.
