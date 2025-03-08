@@ -27,3 +27,15 @@ Worked on the frontend development of the project, crafting the HTML templates, 
 * Ensured simple navigation, added interactive elements, and ensured users could easily find what they needed on the platform.
 <br>
 * Employed responsive design principles to ensure compatability across various devices and screen sizes.
+<br>
+EZEAFULUKWE KAMSY ROBERT- BHU/22/04/05/0051.
+<br>
+Worked on the entities and repository.
+* The items contain the attribute, private long id, name, weight code as well as getters and setters. Used generation type identity. Annotations like @ID.
+<br>
+* Vehicles- Used generation type sequence as well as getters and setters.
+<br>
+* Repositories- The repository manages data and ensures a smooth delivery process. It extends the JPA repository and imported the JPA. 
+<br>
+* Used "find by plate number" in the vehicle, vehicle service and vehicle service implement 
+
