@@ -28,7 +28,7 @@ Worked on the frontend development of the project, crafting the HTML templates, 
 <br>
 * Employed responsive design principles to ensure compatability across various devices and screen sizes.
 <br>
-EZEAFULUKWE KAMSY ROBERT- BHU/22/04/05/0051.
+4. EZEAFULUKWE KAMSY ROBERT- BHU/22/04/05/0051.
 <br>
 Worked on the entities and repository.
 * The items contain the attribute, private long id, name, weight code as well as getters and setters. Used generation type identity. Annotations like @ID.
