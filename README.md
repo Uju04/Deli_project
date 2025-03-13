@@ -38,4 +38,15 @@ Worked on the entities and repository.
 * Repositories- The repository manages data and ensures a smooth delivery process. It extends the JPA repository and imported the JPA. 
 <br>
 * Used "find by plate number" in the vehicle, vehicle service and vehicle service implement 
+<br>
+5. OYIDIH EZEKIEL .O - BHU/22/04/05/0026.
+<br>
+Contributions focused on the JavaScript portion of the project. This includeS
+<br>
+Implementing dynamic UI interaction
+<br>
+Creating reusable JavaScript modules/components for maintainability.
+<br>
+Managing client-side form validation and user input handling.
+<br>
 
